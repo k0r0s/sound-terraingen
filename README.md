@@ -1,2 +1,2 @@
 # sound-terraingen
-a cool visual effect combinig fft libraries and terrain generation
+Visual Effect combining Audio libraries and terrain generation. *Import minim libraries* *drop your audio.mp3 file into the same folder as the pde's*
